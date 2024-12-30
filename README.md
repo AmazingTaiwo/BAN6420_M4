@@ -1,8 +1,9 @@
-# BAN6420_M4
-Module 4 Assignment: Netflix Data Visualization
+# BAN6420: Programming in R & Python
+# Module 4 Assignment: Netflix Data Visualization
 
-# Create a README file
-readme_content = """
+# Name: Babalola Taiwo
+# Learner IS: 162894
+
 # Netflix Shows and Movies Analysis
 
 This project analyzes Netflix shows and movies dataset, addressing missing values, 
