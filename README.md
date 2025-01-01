@@ -18,5 +18,3 @@ exploring the data, and visualizing trends like the most watched genres and the 
 1. Unzip the dataset into the folder.
 2. Run the Python script to clean the data, explore it, and generate the visualizations.
 3. Integrate visualizations into R if needed.
-
-For further questions, check the code comments or contact the project creator.
